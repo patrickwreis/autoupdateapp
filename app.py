@@ -5,7 +5,7 @@ import os
 import requests
 
 # Versão atual do app
-CURRENT_VERSION = "1.0.0"
+CURRENT_VERSION = "1.0.3"
 
 def check_github_release_update():
     repo = "patrickwreis/autoupdateapp"
